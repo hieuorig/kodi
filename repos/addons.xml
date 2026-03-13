@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-  <addon id="plugin.video.pov" version="6.03.10-fs.0" name="POV" provider-name="kodifitzwell">
+  <addon id="plugin.video.pov" version="6.02.09-fs.1" name="POV" provider-name="kodifitzwell">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="script.module.requests" />
